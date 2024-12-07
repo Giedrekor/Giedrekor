@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Giedrekor
 - 👀 I’m interested in FrontEnd Development.
-- 🌱 I’m currently learning JS.
 
 
 <!---
